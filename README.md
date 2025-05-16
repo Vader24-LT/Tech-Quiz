@@ -24,16 +24,13 @@ git clone https://github.com/Vader24-LT/tech-quiz-testing.git
 
 - Install dependencies:
 npm install
+
 Launch Cypress:
-npx cypress open
 🎥 Walkthrough Video: View the test demonstration video for guidance on running both E2E and component tests.
 
 
 🚀 Usage
 - Free to use for educational purposes, testing practice, or as a template for your own projects.
-
-# Run all tests
-npm test
 
 # Run specific test types
 npm run client:dev --e2e       # End-to-end tests only
