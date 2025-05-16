@@ -26,5 +26,7 @@ run e2e and component testing using cypress
 
 Questions
 For any questions, please contact me:
+
 GitHub: Vader24-LT
+
 Email: Luis322009@hotmail.com
