@@ -26,7 +26,9 @@ git clone https://github.com/Vader24-LT/tech-quiz-testing.git
 npm install
 
 Launch Cypress:
-🎥 Walkthrough Video: View the test demonstration video for guidance on running both E2E and component tests.
+🎥 Walkthrough Video: https://drive.google.com/file/d/1JqfZ0r4hTzJTwmQawfXW1GIwZ_KkQ9XP/view?usp=sharing
+
+View the test demonstration video for guidance on running both E2E and component tests.
 
 
 🚀 Usage
